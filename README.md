@@ -2,7 +2,7 @@
 
 A few zeek related scripts:
 
-Entopy and File Extraction 
+Entropy and File Extraction 
  - Taken from BrashEndeavours (https://github.com/BrashEndeavours) within only very minor modifications to be compatible with zeek.
 
 
