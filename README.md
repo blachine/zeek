@@ -10,6 +10,6 @@ JA3 and HASSH
  - Taken from (https://github.com/salesforce/ja3/).
 
 add-json
- - Enables output to both text and json logs, not ideal in production environment, but useful for testing and education environments.
+ - Enables output to both text and json logs, not ideal to have both in production environment, but useful for testing and education environments.
 
 
